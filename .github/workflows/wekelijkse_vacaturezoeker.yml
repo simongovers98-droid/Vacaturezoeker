@@ -1,0 +1,49 @@
+name: Wekelijkse vacaturezoeker
+
+on:
+  schedule:
+    # Elke maandag 06:00 UTC (~08:00 NL-zomertijd / 07:00 NL-wintertijd).
+    # GitHub Actions schedules draaien alleen op de standaardbranch van de repo.
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  zoek-vacatures:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Draai vacaturezoeker
+        run: python vacature_zoeker.py
+
+      - name: Commit resultaten
+        run: |
+          git config user.name "vacaturezoeker-bot"
+          git config user.email "actions@github.com"
+          git add output data/laatst_getoond.json
+          git diff --cached --quiet || git commit -m "Wekelijkse update: vacatures $(date +%Y-%m-%d)"
+          git push
+
+      - name: Open GitHub issue met resultaten
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const inhoud = fs.readFileSync('output/vacatures_deze_week.md', 'utf8');
+            const vandaag = new Date().toISOString().slice(0, 10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Vacatures van de week — ${vandaag}`,
+              body: inhoud,
+            });

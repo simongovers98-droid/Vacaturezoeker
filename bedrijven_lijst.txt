@@ -1,0 +1,18 @@
+# Vertrouwde lokale bedrijven — Deventer
+#
+# Voeg hier bedrijven toe die je zelf kent en vertrouwt (bijvoorbeeld omdat je
+# er al eerder iemand hebt geplaatst, of omdat de eigenaar/manager welwillend
+# staat tegenover jongeren met een asielachtergrond). Deze bedrijven krijgen
+# automatisch VOORRANG in de wekelijkse selectie in vacature_zoeker.py.
+#
+# Formaat (één bedrijf per regel):
+#   Bedrijfsnaam | Sector | Contactpersoon | 06-nummer | Notitie
+#
+# Alleen de bedrijfsnaam (het eerste veld) is verplicht — deze moet exact
+# overeenkomen met de kolom "bedrijf" in data/vacatures_bron.csv om de
+# voorrang te laten werken. De overige velden zijn voor jouw eigen overzicht.
+#
+# Regels die beginnen met # worden genegeerd. Voorbeeldregel (verwijder of
+# pas aan naar een bedrijf dat je zelf kent):
+#
+# Voorbeeld Horeca Deventer | Horeca | Jan Jansen | 06-00000000 | Kent begeleider al, positieve ervaring
