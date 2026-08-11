@@ -4,19 +4,19 @@
 
 | Functie | Bedrijf | 06-nummer | Vacaturelink | Actie |
 |---|---|---|---|---|
-| Bijbaan vakkenvuller | Jumbo Deventer Boreelplein | 0570-640883 | [link](https://nl.jobs.jumbo.com/nl/vacature/bijbaan-vakkenvuller/2022-12789/) | Vul formulier in / mail |
+| Keukenhulp / afwasser | 't Zusje Deventer | 0570-726980 | [link](https://zusje.nl/onze-zusjes/deventer/) | Vul formulier in / mail |
 | Bediening / horecamedewerker | Meadow op het Deventer Stadsstrand | 0570-594575 | [link](https://meadow-deventer.nl/vacatures/) | Vul formulier in / mail |
 | Schoonmaker | Meijer Schoonmaakdiensten | 0570-612745 | [link](https://meijer-schoonmaakdiensten.nl/leukste-schoonmaak-banen/) | Vul formulier in / mail |
 
-## 1. Bijbaan vakkenvuller bij Jumbo Deventer Boreelplein
+## 1. Keukenhulp / afwasser bij 't Zusje Deventer
 
-**Waarom nu:** GEVERIFIEERD ECHT BEDRIJF EN ECHTE VACATURE (algemeen winkelnummer, geen persoonlijk 06). Specifieke, actueel openstaande bijbaanvacature vakkenvuller bij Jumbo Boreelplein 4, vanaf 15 jaar, 0-10 uur/week, avond/weekend - laagdrempelig en snel te starten.
+**Waarom nu:** GEVERIFIEERD ECHT BEDRIJF (algemeen restaurantnummer, geen persoonlijk 06). Populair restaurant aan het Boreelplein, dagelijks open (diner vanaf 16u, weekend ook lunch) - drukke bediening/keuken met doorlopende behoefte aan extra handen in de keuken.
 
-**Contactpersoon:** Onbekend - vraag naar bedrijfsleider/afdeling personeel
+**Contactpersoon:** Onbekend - vraag naar keukenchef/bedrijfsleider
 
 **Wat te zeggen aan de telefoon:**
 
-"Hallo, u spreekt met [naam begeleider] van [organisatie] in Deventer. Ik zag dat jullie op zoek zijn naar iemand voor bijbaan vakkenvuller. Ik begeleid een gemotiveerde jongere die snel wil starten en graag langs wil komen om kennis te maken. Hij/zij zit in de asielprocedure en heeft een geldig W-document; voor de start regelen we samen met u de werkvergunning (TWV) via UWV — dat duurt meestal enkele weken, dus hoe eerder we de aanvraag starten, hoe beter. Zou ik hem/haar vandaag of morgen mogen voorstellen?"
+"Hallo, u spreekt met [naam begeleider] van [organisatie] in Deventer. Ik zag dat jullie op zoek zijn naar iemand voor keukenhulp / afwasser. Ik begeleid een gemotiveerde jongere die snel wil starten en graag langs wil komen om kennis te maken. Hij/zij zit in de asielprocedure en heeft een geldig W-document; voor de start regelen we samen met u de werkvergunning (TWV) via UWV — dat duurt meestal enkele weken, dus hoe eerder we de aanvraag starten, hoe beter. Zou ik hem/haar vandaag of morgen mogen voorstellen?"
 
 ## 2. Bediening / horecamedewerker bij Meadow op het Deventer Stadsstrand
 
