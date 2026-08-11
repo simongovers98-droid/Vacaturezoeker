@@ -1,5 +1,7 @@
 name: Wekelijkse vacaturezoeker
 
+# Kleine wijziging om GitHub Actions te laten herregistreren nadat Actions
+# was ingeschakeld voor deze repository.
 on:
   schedule:
     # Elke maandag 06:00 UTC (~08:00 NL-zomertijd / 07:00 NL-wintertijd).
