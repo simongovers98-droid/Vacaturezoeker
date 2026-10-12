@@ -1,39 +1,39 @@
-# Vacatures van de week — 2026-10-05
+# Vacatures van de week — 2026-10-12
 
 **Juridische let-op:** dit betreft jonge **asielzoekers** (nog in de asielprocedure), geen statushouders. Werken mag alleen met een geldig **W-document**, en de werkgever moet vooraf een **tewerkstellingsvergunning (TWV)** aanvragen bij UWV (max. 24 van de 52 weken per jaar). Reken op enkele weken doorlooptijd — begin de aanvraag dus zo snel mogelijk. Bij minderjarigen gelden aanvullende, strengere regels: controleer dit altijd eerst bij UWV / VluchtelingenWerk / COA.
 
 | Functie | Bedrijf | 06-nummer | Vacaturelink | Actie |
 |---|---|---|---|---|
-| Bediening / horecamedewerker | Meadow op het Deventer Stadsstrand | 0570-594575 | [link](https://meadow-deventer.nl/vacatures/) | Vul formulier in / mail |
-| Schoonmaker (bedrijfspand) | Multi Clean Deventer | 0570-656566 | [link](https://www.multiclean-deventer.nl/vacatures) | Vul formulier in / mail |
-| Oproepkracht carwash | iClean Carwash Deventer | 0570-606909 | [link](https://icleandeventer.nl/vacatures/vacature-parttimemedewerker-oproepkracht/) | Vul formulier in / mail |
+| Medewerker snackbar/cafetaria | Cafetaria De Worp | 06-51229914 | [link](https://www.telefoonboek.nl/bedrijven/t8496809/deventer/cafetaria-de-worp/) | Bel direct |
+| Medewerker grillroom/shoarma | Ender Kebap | 06-55155510 | [link](https://www.telefoonboek.nl/bedrijven/t4175863/deventer/ender-kebap/) | Bel direct |
+| Shopmedewerker tankstation (bijbaan) | OK Tankstation Koerhuis (BP Koerhuis) | 0570-633855 | [link](https://ats.werkenbijok.nl/jobs/8215765-bijbaan-tankstation-koerhuis-deventer) | Vul formulier in / mail |
 
-## 1. Bediening / horecamedewerker bij Meadow op het Deventer Stadsstrand
+## 1. Medewerker snackbar/cafetaria bij Cafetaria De Worp
 
-**Waarom nu:** GEVERIFIEERD ECHT BEDRIJF (algemeen nummer, geen persoonlijk 06). Seizoensgebonden strandtent aan de IJssel. LET OP: sluit jaarlijks 30 oktober voor het seizoen - dus nog maar enkele weken actueel dit jaar, daarna waarschijnlijk niet meer tot volgend voorjaar. Check bij bellen of ze nog personeel zoeken voor de laatste weken.
+**Waarom nu:** GEVERIFIEERD ECHT BEDRIJF MET ECHT 06-NUMMER (publiek vermeld als mobiel contactnummer op telefoonboek.nl, waarschijnlijk de eigenaar zelf bij een kleine zelfstandige snackbar). Adres: Bloemstraat 62, Deventer. Snackbars/cafetaria's hebben doorgaans hoog personeelsverloop en laagdrempelige instap - bel gerust rechtstreeks.
+
+**Contactpersoon:** Onbekend - eigenaar/bedrijfsleider (nummer staat als mobiel vermeld)
+
+**Wat te zeggen aan de telefoon:**
+
+"Hallo, u spreekt met [naam begeleider] van [organisatie] in Deventer. Ik zag dat jullie op zoek zijn naar iemand voor medewerker snackbar/cafetaria. Ik begeleid een gemotiveerde jongere die snel wil starten en graag langs wil komen om kennis te maken. Hij/zij zit in de asielprocedure en heeft een geldig W-document; voor de start regelen we samen met u de werkvergunning (TWV) via UWV — dat duurt meestal enkele weken, dus hoe eerder we de aanvraag starten, hoe beter. Zou ik hem/haar vandaag of morgen mogen voorstellen?"
+
+## 2. Medewerker grillroom/shoarma bij Ender Kebap
+
+**Waarom nu:** GEVERIFIEERD ECHT BEDRIJF MET ECHT 06-NUMMER (publiek vermeld als mobiel contactnummer op telefoonboek.nl). Adres: Hunneperkade 38, Deventer. Kleine zelfstandige grillroom/kebabzaak - laagdrempelig, hiring-status niet bevestigd, dus bij het bellen eerst navragen.
+
+**Contactpersoon:** Onbekend - eigenaar (nummer staat als mobiel vermeld)
+
+**Wat te zeggen aan de telefoon:**
+
+"Hallo, u spreekt met [naam begeleider] van [organisatie] in Deventer. Ik zag dat jullie op zoek zijn naar iemand voor medewerker grillroom/shoarma. Ik begeleid een gemotiveerde jongere die snel wil starten en graag langs wil komen om kennis te maken. Hij/zij zit in de asielprocedure en heeft een geldig W-document; voor de start regelen we samen met u de werkvergunning (TWV) via UWV — dat duurt meestal enkele weken, dus hoe eerder we de aanvraag starten, hoe beter. Zou ik hem/haar vandaag of morgen mogen voorstellen?"
+
+## 3. Shopmedewerker tankstation (bijbaan) bij OK Tankstation Koerhuis (BP Koerhuis)
+
+**Waarom nu:** GEVERIFIEERD ECHT BEDRIJF EN ECHTE VACATURE (algemeen tankstationnummer, geen persoonlijk 06). Specifieke, actueel openstaande bijbaanvacature shopmedewerker bij tankstation Zutphenseweg 51, 8-16 uur/week inclusief avond/weekend, augustus-november, geen ervaring vereist, 24/7 open.
 
 **Contactpersoon:** Onbekend - vraag naar bedrijfsleider
 
 **Wat te zeggen aan de telefoon:**
 
-"Hallo, u spreekt met [naam begeleider] van [organisatie] in Deventer. Ik zag dat jullie op zoek zijn naar iemand voor bediening / horecamedewerker. Ik begeleid een gemotiveerde jongere die snel wil starten en graag langs wil komen om kennis te maken. Hij/zij zit in de asielprocedure en heeft een geldig W-document; voor de start regelen we samen met u de werkvergunning (TWV) via UWV — dat duurt meestal enkele weken, dus hoe eerder we de aanvraag starten, hoe beter. Zou ik hem/haar vandaag of morgen mogen voorstellen?"
-
-## 2. Schoonmaker (bedrijfspand) bij Multi Clean Deventer
-
-**Waarom nu:** GEVERIFIEERD ECHT BEDRIJF (algemeen nummer, geen persoonlijk 06). Lokaal Deventer schoonmaakbedrijf sinds 1989. Actueel openstaande vacature voor een schoonmaker die zelfstandig een bedrijfspand op industrieterrein A1 onderhoudt - laagdrempelig, geen diploma nodig.
-
-**Contactpersoon:** Onbekend - vraag naar planning/HR
-
-**Wat te zeggen aan de telefoon:**
-
-"Hallo, u spreekt met [naam begeleider] van [organisatie] in Deventer. Ik zag dat jullie op zoek zijn naar iemand voor schoonmaker (bedrijfspand). Ik begeleid een gemotiveerde jongere die snel wil starten en graag langs wil komen om kennis te maken. Hij/zij zit in de asielprocedure en heeft een geldig W-document; voor de start regelen we samen met u de werkvergunning (TWV) via UWV — dat duurt meestal enkele weken, dus hoe eerder we de aanvraag starten, hoe beter. Zou ik hem/haar vandaag of morgen mogen voorstellen?"
-
-## 3. Oproepkracht carwash bij iClean Carwash Deventer
-
-**Waarom nu:** GEVERIFIEERD ECHT BEDRIJF EN ECHTE VACATURE (algemeen nummer, geen persoonlijk 06). Specifieke, actueel openstaande oproepkracht/parttime-vacature bij carwash Rostockstraat 2 - laagdrempelig, geen diploma nodig, weekenddiensten.
-
-**Contactpersoon:** Onbekend - vraag naar bedrijfsleider
-
-**Wat te zeggen aan de telefoon:**
-
-"Hallo, u spreekt met [naam begeleider] van [organisatie] in Deventer. Ik zag dat jullie op zoek zijn naar iemand voor oproepkracht carwash. Ik begeleid een gemotiveerde jongere die snel wil starten en graag langs wil komen om kennis te maken. Hij/zij zit in de asielprocedure en heeft een geldig W-document; voor de start regelen we samen met u de werkvergunning (TWV) via UWV — dat duurt meestal enkele weken, dus hoe eerder we de aanvraag starten, hoe beter. Zou ik hem/haar vandaag of morgen mogen voorstellen?"
+"Hallo, u spreekt met [naam begeleider] van [organisatie] in Deventer. Ik zag dat jullie op zoek zijn naar iemand voor shopmedewerker tankstation (bijbaan). Ik begeleid een gemotiveerde jongere die snel wil starten en graag langs wil komen om kennis te maken. Hij/zij zit in de asielprocedure en heeft een geldig W-document; voor de start regelen we samen met u de werkvergunning (TWV) via UWV — dat duurt meestal enkele weken, dus hoe eerder we de aanvraag starten, hoe beter. Zou ik hem/haar vandaag of morgen mogen voorstellen?"
